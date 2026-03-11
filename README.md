@@ -1,5 +1,6 @@
-evolution-of-lyrics-and-loudness
-An exploratory data analysis of musical evolution from 1960 to 2019 using a dataset of 28,000+ songs. This project investigates the "Loudness War," shifts in lyrical density (word count), and the longitudinal progression of thematic sentiments like sadness and obscenity.
+*evolution-of-lyrics-and-loudness*
+
+An exploratory data analysis of musical evolution from 1960 to 2019 using a dataset with more than 28k songs. This project investigates the Loudness War, shifts in lyrical density (word count), and the longitudinal progression of thematic sentiments like sadness and obscenity.
 
 Data Source
 The dataset used in this project is the Music Dataset: Lyrics and Metadata from 1950 to 2019.
