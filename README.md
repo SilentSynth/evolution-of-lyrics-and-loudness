@@ -27,15 +27,19 @@ Trend Smoothing: Implementation of 3-year rolling averages to reduce annual vola
 Filtering: Focused analysis on the period between 1960 and 2019, removing instrumental tracks and statistical outliers.
 
 Analysis and Visualizations
+
 1. The Loudness War
+
 <img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/d09b1319-8732-431f-8895-976c7cb6a8ab" />
 This visualization tracks the average decibel levels of music over time, illustrating the industry-wide trend of increasing audio compression and volume.
 
 2. Lyrical Density
+
 <img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/f01e1274-074e-444d-ae3b-16d98aa1102b" />
 An analysis of the average number of words per song, showing how the complexity and length of lyrics have shifted across different eras of music.
 
 3. Thematic Shifts
+
 <img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/05b71913-2170-4c2e-ad63-40c19a0bf556" />
 A comparison of sentiment intensities, specifically tracking the prevalence of "Sadness" and "Obscene" topics in lyrics across the 60-year period.
 
